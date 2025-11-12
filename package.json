@@ -1,7 +1,7 @@
 {
-  "name": "zl-g",
+  "name": "antv-g",
   "version": "1.0.18",
-  "description": "zl gis library",
+  "description": "gis library",
   "main": "dist/zl-g.js",
   "types": "./dist/index.d.ts",
   "scripts": {
@@ -11,7 +11,7 @@
   "keywords": [
     "zl"
   ],
-  "homepage": "https://github.com/zasqw2222/zcom",
+  "homepage": "https://github.com/zasqw2222/antv-g",
   "author": "zasqwhdh@gmail.com",
   "license": "MIT",
   "devDependencies": {
