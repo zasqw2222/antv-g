@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>地标2</title>
+    <g id="地标2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M9,1 C13.418278,1 17,4.581722 17,9 C17,13.418278 13.418278,17 9,17 C4.581722,17 1,13.418278 1,9 C1,4.581722 4.581722,1 9,1 Z M9,2.5 C5.41014913,2.5 2.5,5.41014913 2.5,9 C2.5,12.5898509 5.41014913,15.5 9,15.5 C12.5898509,15.5 15.5,12.5898509 15.5,9 C15.5,5.41014913 12.5898509,2.5 9,2.5 Z" id="椭圆形备份" fill="#31D992" fill-rule="nonzero"></path>
+        <circle id="椭圆形备份-2" fill-opacity="0.16" fill="#31D992" cx="9" cy="9" r="6.5"></circle>
+    </g>
+</svg>
