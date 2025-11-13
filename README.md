@@ -1,4 +1,4 @@
-# antv-g
+# antv-g [中文](./README_zh.md)
 
 A GIS map visualization library built on AntV L7, providing rich map layers, controls, and interactive features.
 
@@ -7,7 +7,7 @@ A GIS map visualization library built on AntV L7, providing rich map layers, con
 - **Version**: 1.0.18
 - **Description**: GIS map visualization library
 - **License**: MIT
-- **Author**: zasqwzasqw2222@gmail.com
+- **Author**: zasqw2222@gmail.com
 - **Homepage**: https://github.com/zasqw2222/antv-g
 
 ## ✨ Features
