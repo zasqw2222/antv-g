@@ -1,8 +1,8 @@
 /*
- * @Author: hdh
+ * @Author: zasqw2222
  * @Date: 2023-03-30 14:44:52
  * @Description: 鼠标位置空间
- * @FilePath: /zl-g/src/components/Control/MouseLocation.ts
+ * @FilePath: /antv-g/src/components/Control/MouseLocation.ts
  */
 
 import { MouseLocation } from '@antv/l7';

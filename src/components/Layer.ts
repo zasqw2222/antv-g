@@ -1,8 +1,8 @@
 /*
- * @Author: your name
+ * @Author: zasqw2222
  * @Date: 2023-03-29 13:53:09
  * @Description:
- * @FilePath: /zl-g/src/components/Layer.ts
+ * @FilePath: /antv-g/src/components/Layer.ts
  */
 
 class Layer {

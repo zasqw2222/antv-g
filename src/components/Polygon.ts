@@ -1,8 +1,8 @@
 /*
- * @Author: your name
+ * @Author: zasqw2222
  * @Date: 2023-04-11 11:20:14
  * @Description:
- * @FilePath: /zl-g/src/components/Polygon.ts
+ * @FilePath: /antv-g/src/components/Polygon.ts
  */
 import BaseLayer from './BaseLayer';
 

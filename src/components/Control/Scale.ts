@@ -1,8 +1,8 @@
 /*
- * @Author: hdh
+ * @Author: zasqw2222
  * @Date: 2023-03-30 10:53:24
  * @Description: 比例尺控件
- * @FilePath: /zl-g/src/components/Control/Scale.ts
+ * @FilePath: /antv-g/src/components/Control/Scale.ts
  */
 import { Scale } from '@antv/l7';
 import { IControlScale } from '../../Type/types';

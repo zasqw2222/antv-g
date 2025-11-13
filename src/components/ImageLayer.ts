@@ -1,8 +1,8 @@
 /*
- * @Author: your name
+ * @Author: zasqw2222
  * @Date: 2023-04-04 17:18:19
  * @Description:
- * @FilePath: /zl-g/src/components/ImageLayer.ts
+ * @FilePath: /antv-g/src/components/ImageLayer.ts
  */
 import BaseLayer from './BaseLayer';
 import { ImageLayer } from '@antv/l7';

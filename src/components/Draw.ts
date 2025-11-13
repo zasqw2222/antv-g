@@ -1,8 +1,8 @@
 /*
- * @Author: your name
+ * @Author: zasqw2222
  * @Date: 2023-04-06 14:09:11
  * @Description:
- * @FilePath: /zl-g/src/components/Draw.ts
+ * @FilePath: /antv-g/src/components/Draw.ts
  */
 import {
   DrawEvent,

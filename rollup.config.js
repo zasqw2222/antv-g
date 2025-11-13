@@ -1,8 +1,8 @@
 /*
- * @Author: your name
+ * @Author: zasqw2222
  * @Date: 2021-07-13 09:37:27
  * @Description:
- * @FilePath: /zl-g/rollup.config.js
+ * @FilePath: /antv-g/rollup.config.js
  */
 
 import json from 'rollup-plugin-json';
@@ -15,7 +15,6 @@ import autoprefixer from 'autoprefixer';
 import image from '@rollup/plugin-image';
 
 import pack from './package.json';
-import { eslint } from 'rollup-plugin-eslint';
 
 import { terser } from 'rollup-plugin-terser';
 

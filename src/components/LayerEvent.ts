@@ -1,8 +1,8 @@
 /*
- * @Author: your name
+ * @Author: zasqw2222
  * @Date: 2023-04-12 11:26:32
  * @Description:
- * @FilePath: /zl-g/src/components/LayerEvent.ts
+ * @FilePath: /antv-g/src/components/LayerEvent.ts
  */
 
 class LayerEvent {

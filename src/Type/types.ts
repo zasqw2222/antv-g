@@ -1,8 +1,8 @@
 /*
- * @Author: your name
+ * @Author: zasqw2222
  * @Date: 2023-03-28 17:06:19
  * @Description:
- * @FilePath: /zl-g/src/Type/types.ts
+ * @FilePath: /antv-g/src/Type/types.ts
  */
 
 // import { GeoJSON } from '../geojsonType';

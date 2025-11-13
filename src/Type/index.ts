@@ -1,8 +1,8 @@
 /*
- * @Author: your name
+ * @Author: zasqw2222
  * @Date: 2023-04-04 16:28:58
  * @Description:
- * @FilePath: /zl-g/src/Type/index.ts
+ * @FilePath: /antv-g/src/Type/index.ts
  */
 import { GeoJSON } from '../geojsonType';
 const mapboxgl = window.mapboxgl;

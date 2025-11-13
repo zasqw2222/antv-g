@@ -1,8 +1,8 @@
 /*
- * @Author: your name
+ * @Author: zasqw2222
  * @Date: 2023-04-06 14:39:57
  * @Description:
- * @FilePath: /zl-g/src/Type/draw.ts
+ * @FilePath: /antv-g/src/Type/draw.ts
  */
 
 export type TdrawType = 'point' | 'line' | 'polygon' | 'rect' | 'circle';

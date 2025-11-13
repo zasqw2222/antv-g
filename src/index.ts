@@ -1,8 +1,8 @@
 /*
- * @Author: your name
+ * @Author: zasqw2222
  * @Date: 2021-07-13 09:37:46
  * @Description:
- * @FilePath: /zl-g/src/index.ts
+ * @FilePath: /antv-g/src/index.ts
  */
 // import gcoord from 'gcoord';
 import { ExportImage } from '@antv/l7';
@@ -69,9 +69,6 @@ import MiniMap from './components/Control/MiniMap';
 const mapboxgl = window.mapboxgl;
 
 class ZLG extends MapType {
-  // public __scene: any;
-  // private dom: Tdom;
-  // public Layer: any;
 
   static coord: (
     position: TcoordInput,
@@ -276,23 +273,6 @@ class ZLG extends MapType {
       this.__scene.addControl(zoom);
     }
 
-    //地图导出解决方法 2
-    // this.__scene.map.once('render', function () {
-    //   const canvas = this.getCanvas();
-    //   canvas.toBlob(async function (blob) {
-    //     let url2 = await _this.__scene.exportMap('png');
-
-    // _this.drawAndShareImage(
-    //   blob,
-    //   dataURLtoBlob(url2),
-    //   canvas.width,
-    //   canvas.height,
-    //   name
-    // );
-    // });
-    // });
-
-    // this.__scene.map.repaint = true;
   };
 
   //全局添加图片
@@ -338,19 +318,7 @@ class ZLG extends MapType {
     this.__scene.setZoomAndCenter(zoom, center);
   };
 }
-// 坐标系转换
-// ZLG.coord = (
-//   position: TcoordInput,
-//   from: TcoordFormTo = 'WGS84',
-//   to: TcoordFormTo = 'GCJ02'
-// ): TcoordInput => {
-//   if (!position) {
-//     return [];
-//   }
-//   return gcoord.transform(position, gcoord[from], gcoord[to]);
-// };
 
-//line data->geojson
 // 数据转换
 ZLG.createLineJSON = (data: number[] | number[][]) => {
   return {

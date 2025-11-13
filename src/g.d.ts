@@ -1,8 +1,8 @@
 /*
- * @Author: your name
+ * @Author: zasqw2222
  * @Date: 2023-03-28 11:10:52
  * @Description:
- * @FilePath: /zl-g/src/g.d.ts
+ * @FilePath: /antv-g/src/g.d.ts
  */
 
 declare module '@antv/l7';

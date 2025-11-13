@@ -1,8 +1,8 @@
 /*
- * @Author: hdh
+ * @Author: zasqw2222
  * @Date: 2023-03-31 14:08:51
  * @Description: 多popup
- * @FilePath: /zl-g/src/components/Control/MultiPopup.ts
+ * @FilePath: /antv-g/src/components/Control/MultiPopup.ts
  */
 
 import {

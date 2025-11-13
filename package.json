@@ -1,8 +1,8 @@
 {
   "name": "antv-g",
   "version": "1.0.18",
-  "description": "gis library",
-  "main": "dist/zl-g.js",
+  "description": "A GIS map visualization library built on AntV L7, providing rich map layers, controls, and interactive features.",
+  "main": "dist/antv-g.js",
   "types": "./dist/index.d.ts",
   "scripts": {
     "build": "rm -rf dist/ && rollup --config rollup.config.js",
@@ -12,7 +12,7 @@
     "zl"
   ],
   "homepage": "https://github.com/zasqw2222/antv-g",
-  "author": "zasqwhdh@gmail.com",
+  "author": "zasqwzasqw2222@gmail.com",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.14.6",

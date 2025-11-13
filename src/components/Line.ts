@@ -1,8 +1,8 @@
 /*
- * @Author: your name
+ * @Author: zasqw2222
  * @Date: 2023-03-29 11:29:46
  * @Description:
- * @FilePath: /zl-g/src/components/Line.ts
+ * @FilePath: /antv-g/src/components/Line.ts
  */
 import BaseLayer from './BaseLayer';
 

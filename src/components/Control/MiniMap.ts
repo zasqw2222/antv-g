@@ -1,8 +1,8 @@
 /*
- * @Author: your name
+ * @Author: zasqw2222
  * @Date: 2023-04-10 13:12:05
  * @Description:
- * @FilePath: /zl-g/src/components/Control/MiniMap.ts
+ * @FilePath: /antv-g/src/components/Control/MiniMap.ts
  */
 
 import MinimapCore, { TPositions, MiniMapOptions } from '../MiniMapCore';

@@ -1,8 +1,8 @@
 /*
- * @Author: hdh
+ * @Author: zasqw2222
  * @Date: 2023-03-30 11:19:10
  * @Description: 全屏控件
- * @FilePath: /zl-g/src/components/Control/FullScreen.ts
+ * @FilePath: /antv-g/src/components/Control/FullScreen.ts
  */
 import { Fullscreen } from '@antv/l7';
 import { IControlFullScreen } from '../../Type/types';

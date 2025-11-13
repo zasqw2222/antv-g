@@ -1,8 +1,8 @@
 /*
- * @Author: your name
+ * @Author: zasqw2222
  * @Date: 2023-04-03 08:49:27
  * @Description:
- * @FilePath: /zl-g/src/Type/control.ts
+ * @FilePath: /antv-g/src/Type/control.ts
  */
 import { ElementType } from './types';
 

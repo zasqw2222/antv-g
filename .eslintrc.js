@@ -1,5 +1,5 @@
 /*
- * @Author: your name
+ * @Author: zasqw2222
  * @Date: 2021-10-18 14:40:13
  * @Description:
  * @FilePath: /telos-front/.eslintrc.js

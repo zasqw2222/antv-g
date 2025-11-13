@@ -1,8 +1,8 @@
 /*
- * @Author: your name
+ * @Author: zasqw2222
  * @Date: 2023-03-28 16:38:56
  * @Description:
- * @FilePath: /zl-g/src/components/styleSwtich.ts
+ * @FilePath: /antv-g/src/components/styleSwtich.ts
  */
 
 import { TStyle } from '../Type/types';

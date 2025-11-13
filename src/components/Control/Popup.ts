@@ -1,8 +1,8 @@
 /*
- * @Author: hdh
+ * @Author: zasqw2222
  * @Date: 2023-03-30 15:14:27
  * @Description: tip空间
- * @FilePath: /zl-g/src/components/Control/Popup.ts
+ * @FilePath: /antv-g/src/components/Control/Popup.ts
  */
 import { Popup } from '@antv/l7';
 import { TlngLat, ElementType, IPopup } from '../../Type/types';

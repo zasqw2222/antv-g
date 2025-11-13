@@ -1,8 +1,8 @@
 /*
- * @Author: hdh
+ * @Author: zasqw2222
  * @Date: 2023-03-30 13:13:47
  * @Description: 定位控件
- * @FilePath: /zl-g/src/components/Control/Locate.ts
+ * @FilePath: /antv-g/src/components/Control/Locate.ts
  */
 import { GeoLocate } from '@antv/l7';
 import { IControlLocate, position } from '../../Type/types';

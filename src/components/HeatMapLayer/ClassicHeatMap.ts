@@ -1,8 +1,8 @@
 /*
- * @Author: your name
+ * @Author: zasqw2222
  * @Date: 2023-04-04 17:18:37
  * @Description:
- * @FilePath: /zl-g/src/components/HeatMapLayer.ts
+ * @FilePath: /antv-g/src/components/HeatMapLayer.ts
  */
 import HeatMapBaseLayer from './HeatMapBaseLayer';
 import { HeatmapLayer } from '@antv/l7';

@@ -1,8 +1,8 @@
 /*
- * @Author: your name
+ * @Author: zasqw2222
  * @Date: 2023-04-06 10:40:29
  * @Description:
- * @FilePath: /zl-g/src/Type/imagelayer.ts
+ * @FilePath: /antv-g/src/Type/imagelayer.ts
  */
 
 export interface IImageLayerOptions {

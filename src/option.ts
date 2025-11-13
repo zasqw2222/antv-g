@@ -1,17 +1,15 @@
 /*
- * @Author: your name
+ * @Author: zasqw2222
  * @Date: 2023-03-28 17:02:37
  * @Description:
- * @FilePath: /zl-g/src/option.ts
+ * @FilePath: /antv-g/src/option.ts
  */
 import {
-  IControlLocate,
   IcontrolMouseLocation,
-  IMarker,
   IPopup
 } from './Type/types';
 import { IMap } from './Type/index';
-// import gcoord from 'gcoord';
+
 export const mapOptions: IMap = {
   style: '',
   zoom: 1,
@@ -22,14 +20,6 @@ export const mapOptions: IMap = {
   zoomEnable:true,
   pitchWithRotate: true
 };
-
-// export const locateOptions: IControlLocate = {
-//   transform: (position) => {
-//     const _position = gcoord.transform(position, gcoord.WGS84, gcoord.GCJ02);
-//     return _position;
-//   },
-//   position: 'topright'
-// };
 
 export const mouseLocationOptions: IcontrolMouseLocation = {
   transform: (position) => {

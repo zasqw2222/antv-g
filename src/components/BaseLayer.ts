@@ -1,8 +1,8 @@
 /*
- * @Author: your name
+ * @Author: zasqw2222
  * @Date: 2023-04-03 12:48:58
  * @Description:
- * @FilePath: /zl-g/src/components/BaseLayer.ts
+ * @FilePath: /antv-g/src/components/BaseLayer.ts
  */
 import { TStyle, IMultiPopupSetData } from '../Type/control';
 import { IClassicHeatMapStyle, ISquareHeatMapStyle } from '../Type/heatMap';

@@ -1,8 +1,8 @@
 /*
- * @Author: your name
+ * @Author: zasqw2222
  * @Date: 2023-03-30 09:57:51
  * @Description:
- * @FilePath: /zl-g/src/components/Control/Zoom.ts
+ * @FilePath: /antv-g/src/components/Control/Zoom.ts
  */
 import { Zoom } from '@antv/l7';
 import { IControlZoom } from '../../Type/types';

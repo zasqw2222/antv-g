@@ -1,8 +1,8 @@
 /*
- * @Author: your name
+ * @Author: zasqw2222
  * @Date: 2023-04-06 10:43:46
  * @Description:
- * @FilePath: /zl-g/src/options/imageLayer.ts
+ * @FilePath: /antv-g/src/options/imageLayer.ts
  */
 
 export const imageLayerOptions = {

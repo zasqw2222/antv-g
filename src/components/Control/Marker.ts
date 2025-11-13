@@ -1,8 +1,8 @@
 /*
- * @Author: hdh
+ * @Author: zasqw2222
  * @Date: 2023-03-31 09:02:49
  * @Description: marker
- * @FilePath: /zl-g/src/components/Control/Marker.ts
+ * @FilePath: /antv-g/src/components/Control/Marker.ts
  */
 import { Marker } from '@antv/l7';
 import { IMarker } from '../../Type/types';
