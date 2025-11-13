@@ -7,7 +7,7 @@
 - **版本**: 1.0.18
 - **描述**: GIS 地图可视化库
 - **许可证**: MIT
-- **作者**: zasqwzasqw2222@gmail.com
+- **作者**: zasqw2222@gmail.com
 - **主页**: https://github.com/zasqw2222/antv-g
 
 ## ✨ 特性
@@ -24,9 +24,7 @@
 
 ## 🚀 安装
 
-```bash
-npm install antv-g
-```
+
 
 ## 📋 依赖
 
@@ -72,7 +70,7 @@ const map = new ZLG({
 import { Point, BubblePoint } from 'antv-g';
 
 // 简单点图层
-const pointLayer = new Point(map.__scene);
+const pointLayer = map.register(Point);
 pointLayer
   .setData(geoJSONData)
   .color('#ff0000')
@@ -80,7 +78,7 @@ pointLayer
   .add();
 
 // 气泡点图层
-const bubbleLayer = new BubblePoint(map.__scene);
+const bubbleLayer = map.register(BubblePoint);
 bubbleLayer
   .setData(geoJSONData)
   .color('#ff0000', '#00ff00')
@@ -93,7 +91,7 @@ bubbleLayer
 ```javascript
 import { Line } from 'antv-g';
 
-const lineLayer = new Line(map.__scene);
+const lineLayer = map.register(Line);
 lineLayer
   .setData(geoJSONData)
   .color('#0000ff')
@@ -106,7 +104,7 @@ lineLayer
 ```javascript
 import { Polygon } from 'antv-g';
 
-const polygonLayer = new Polygon(map.__scene);
+const polygonLayer = map.register(Polygon);
 polygonLayer
   .setData(geoJSONData)
   .color('#00ff00')
@@ -119,13 +117,13 @@ polygonLayer
 import { ClassicHeatMap, HexagonHeatMap } from 'antv-g';
 
 // 经典热力图
-const heatMap = new ClassicHeatMap(map.__scene);
+const heatMap = map.register(ClassicHeatMap);
 heatMap
   .setData(geoJSONData)
   .add();
 
 // 蜂窝热力图
-const hexHeatMap = new HexagonHeatMap(map.__scene);
+const hexHeatMap = map.register(HexagonHeatMap);
 hexHeatMap
   .setData(geoJSONData)
   .add();

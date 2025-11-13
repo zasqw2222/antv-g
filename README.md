@@ -24,9 +24,6 @@ A GIS map visualization library built on AntV L7, providing rich map layers, con
 
 ## 🚀 Installation
 
-```bash
-npm install antv-g
-```
 
 ## 📋 Dependencies
 
@@ -72,7 +69,7 @@ const map = new ZLG({
 import { Point, BubblePoint } from 'antv-g';
 
 // Simple point layer
-const pointLayer = new Point(map.__scene);
+const pointLayer = map.register(Point);
 pointLayer
   .setData(geoJSONData)
   .color('#ff0000')
@@ -80,7 +77,7 @@ pointLayer
   .add();
 
 // Bubble point layer
-const bubbleLayer = new BubblePoint(map.__scene);
+const bubbleLayer = map.register(BubblePoint);
 bubbleLayer
   .setData(geoJSONData)
   .color('#ff0000', '#00ff00')
@@ -93,7 +90,7 @@ bubbleLayer
 ```javascript
 import { Line } from 'antv-g';
 
-const lineLayer = new Line(map.__scene);
+const lineLayer = map.register(Line);
 lineLayer
   .setData(geoJSONData)
   .color('#0000ff')
@@ -106,7 +103,7 @@ lineLayer
 ```javascript
 import { Polygon } from 'antv-g';
 
-const polygonLayer = new Polygon(map.__scene);
+const polygonLayer = map.register(Polygon);
 polygonLayer
   .setData(geoJSONData)
   .color('#00ff00')
@@ -119,13 +116,13 @@ polygonLayer
 import { ClassicHeatMap, HexagonHeatMap } from 'antv-g';
 
 // Classic heatmap
-const heatMap = new ClassicHeatMap(map.__scene);
+const heatMap = map.register(ClassicHeatMap);
 heatMap
   .setData(geoJSONData)
   .add();
 
 // Hexagonal heatmap
-const hexHeatMap = new HexagonHeatMap(map.__scene);
+const hexHeatMap = map.register(HexagonHeatMap);
 hexHeatMap
   .setData(geoJSONData)
   .add();
