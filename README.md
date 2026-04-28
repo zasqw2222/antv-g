@@ -7,7 +7,7 @@ A GIS map visualization library built on AntV L7, providing rich map layers, con
 - **Version**: 1.0.18
 - **Description**: GIS map visualization library
 - **License**: MIT
-- **Author**: zasqw2222@gmail.com
+- **Author**: zasqwhdh@gmail.com
 - **Homepage**: https://github.com/zasqw2222/antv-g
 
 ## ✨ Features
