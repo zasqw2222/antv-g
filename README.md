@@ -452,7 +452,7 @@ MIT
 
 ## 👤 Author
 
-zasqwzasqw2222@gmail.com
+zasqwhdh@gmail.com
 
 ## 🔗 Related Links
 
